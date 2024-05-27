@@ -1,1 +1,1 @@
-from loctaion branch 
+from location branch
